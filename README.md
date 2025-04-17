@@ -19,11 +19,11 @@ Exploratory analysis on the Palmer Penguins dataset.
 - Species-level body mass comparison
 
 📁 Folder: `01_penguins_eda/`  
-▶️ [View Notebook](01_penguins_eda/penguins.ipynb)
+▶️ [View Notebook](PalmersPenguinsEDA/PalmersPenguinsEDA.ipynb)
 
 #### 📷 Sample Output:
 
-![Boxplot by Species](01_penguins_eda/assets/boxplot_species.png)
+![Boxplot by Species]( PalmerPenguinsEDA/assets/penguinsBoxplot.png)
 
 ---
 
