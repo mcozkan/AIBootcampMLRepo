@@ -37,11 +37,11 @@ Binary classification to predict customer churn.
 - Precision, Recall, ROC-AUC, F1-score
 
 📁 Folder: `02_churn_analysis/`  
-▶️ [View Notebook](02_churn_analysis/churn_modeling.ipynb)
+▶️ [View Notebook](TelcoCustomerChurn/TelcoCustomerChurn.ipynb)
 
-#### 📷 Sample Output (SHAP Summary Plot):
+#### 📷 Sample Output (Churn Feature Importance):
 
-![SHAP Summary](02_churn_analysis/assets/shap_summary.png)
+![ChurnFeatureImportance](TelcoCustomerChurn/assets/ChurnFeatureImportance.png)
 
 ---
 
@@ -54,11 +54,11 @@ Regression model to predict housing prices.
 - Feature importance ranking
 
 📁 Folder: `03_house_price/`  
-▶️ [View Notebook](03_house_price/house_price_model.ipynb)
+▶️ [View Notebook](CaliforniaHousePrices/HausePriceDataModels.ipynb)
 
 #### 📷 Sample Output:
 
-![Prediction vs Actual](03_house_price/assets/pred_vs_actual.png)
+![BeforeAndAfterStandardScaler](CaliforniaHousePrices/assets/BeforeAndAfterStandardScaler.png)
 
 ---
 
