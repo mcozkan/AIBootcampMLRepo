@@ -67,7 +67,7 @@ Regression model to predict housing prices.
 - Python 3.11  
 - pandas, seaborn, matplotlib  
 - scikit-learn, lightgbm, xgboost  
-- SHAP, LIME
+
 
 ---
 
