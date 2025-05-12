@@ -49,12 +49,6 @@ This project explores the application of **unsupervised machine learning techniq
 3. Run all cells sequentially.
 4. (Optional) Tune parameters like DBSCAN `eps` or Isolation Forest threshold for experimentation.
 
-## 📌 Future Work
-
-- Add more visual diagnostics (t-SNE, UMAP)
-- Create reusable functions and modular pipelines
-- Integrate supervised models for hybrid approaches
-- Package as a lightweight anomaly detection service
 
 ## 📜 License
 
